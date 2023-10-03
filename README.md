@@ -15,6 +15,7 @@
   <img align="center" alt="Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png">
   <img align="center" alt="Nodejs" height="70" width="124" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
   <img align="center" alt="Docker" height="70" width="90" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png.webp">
+   <img align="center" alt="Scss" height="70" width="70" src="https://sass-lang.com/assets/img/styleguide/seal-color.png">
 </div>
   
   ##
