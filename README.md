@@ -14,7 +14,7 @@
   <img align="center" alt="React" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png">
   <img align="center" alt="Nodejs" height="70" width="124" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-  <img align="center" alt="Nginx" height="70" width="124" src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg">
+  <img align="center" alt="Nginx" height="70" width="124" src="https://logowik.com/nginx-vector-logo-9232.html">
   <img align="center" alt="Docker" height="70" width="90" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png.webp">
    <img align="center" alt="Scss" height="70" width="70" src="https://sass-lang.com/assets/img/styleguide/seal-color.png">
 </div>
