@@ -2,7 +2,7 @@
 ### Hi my name is Jonathan and I'm a game development student 🎮👨🏼‍💻
 
 <div align="center">
-  <a href="https://linktr.ee/JonathanMBelmiro">Ola</a>
+  <a href="https://linktr.ee/JonathanMBelmiro"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J0nathanMB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0nathanMB&layout=compact&langs_count=7&theme=radical"/>
 </div>
