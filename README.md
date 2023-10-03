@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0nathanMB&layout=compact&langs_count=7&theme=radical"/>
   
 </div>
-<div style="display: flex"><br>
+<div style="display: flex, justify-content: space-around"><br>
   <a href="https://cplusplus.com/"><img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img align="center" alt="C# height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
   <a href="https://unity.com/"><img align="center" alt="Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png"></a>
