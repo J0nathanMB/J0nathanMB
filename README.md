@@ -14,7 +14,7 @@
   <img align="center" alt="React" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png">
   <img align="center" alt="Nodejs" height="70" width="124" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-  <img align="center" alt="Docker" height="70" width="124" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png">
+  <img align="center" alt="Docker" height="70" width="70" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png">
 </div>
   
   ##
