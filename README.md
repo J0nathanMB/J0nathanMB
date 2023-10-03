@@ -13,7 +13,7 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Javascript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Typescript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></a>
   <a href="https://react.dev/"><img align="center" alt="React" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
-  <img align="center" alt="HTML" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+  <a hred="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="HTML" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
   <img align="center" alt="Nodejs" height="70" width="124" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
   <img align="center" alt="Nginx" height="70" width="70" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg">
   <img align="center" alt="Docker" height="70" width="90" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png.webp">
