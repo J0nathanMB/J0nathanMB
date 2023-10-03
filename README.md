@@ -1,9 +1,9 @@
 
-<a href="https://linktr.ee/JonathanMBelmiro">
+
 ### Oi meu nome é Jonathan e eu sou estudante de desenvolvimento de jogos! 🎮👨🏼‍💻
 ### Hi my name is Jonathan and I'm a game development student 🎮👨🏼‍💻
-</a>
 <div align="center">
+  <a href="https://linktr.ee/JonathanMBelmiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J0nathanMB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0nathanMB&layout=compact&langs_count=7&theme=radical"/>
   
