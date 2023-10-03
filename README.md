@@ -1,5 +1,3 @@
-
-
 ### Oi meu nome é Jonathan e eu sou estudante de desenvolvimento de jogos! 🎮👨🏼‍💻
 ### Hi my name is Jonathan and I'm a game development student 🎮👨🏼‍💻
 <div align="center">
@@ -9,7 +7,7 @@
   
 </div>
 <div style="display: flex"><br>
- <a href="https://www.w3schools.com" target="_blank"><img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+ <a href="https://www.w3schools.com" target="_top"><img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
   <img align="center" alt="C# height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png">
   <img align="center" alt="Javascript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
