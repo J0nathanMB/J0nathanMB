@@ -11,7 +11,7 @@
   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img align="center" alt="C# height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
   <a href="https://unity.com/"><img align="center" alt="Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Javascript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
-  <img align="center" alt="Typescript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+  <a href="https://www.typescriptlang.org/"><img align="center" alt="Typescript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></a>
   <img align="center" alt="React" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="HTML" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
   <img align="center" alt="Nodejs" height="70" width="124" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
