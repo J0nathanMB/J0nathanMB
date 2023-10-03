@@ -15,7 +15,7 @@
   <a href="https://react.dev/"><img align="center" alt="React" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="HTML" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
   <a href="https://nodejs.org/en/about"><img align="center" alt="Nodejs" height="70" width="124" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
-  <img align="center" alt="Nginx" height="70" width="70" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg">
+  <a href="https://www.nginx.com/"><img align="center" alt="Nginx" height="70" width="70" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"></a>
   <img align="center" alt="Docker" height="70" width="90" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png.webp">
    <img align="center" alt="Scss" height="70" width="70" src="https://sass-lang.com/assets/img/styleguide/seal-color.png">
 </div>
