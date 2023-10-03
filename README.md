@@ -2,9 +2,10 @@
 ### Hi my name is Jonathan and I'm a game development student 🎮👨🏼‍💻
 
 <div align="center">
-  <a href="https://linktr.ee/JonathanMBelmiro"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J0nathanMB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0nathanMB&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://linktr.ee/JonathanMBelmiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J0nathanMB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0nathanMB&layout=compact&langs_count=7&theme=radical"/></a>
+  
 </div>
 <div style="display: flex"><br>
  <a href="https://cplusplus.com/" rel="noreferrer noopener nofollow" target="_blank" ><img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
