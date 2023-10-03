@@ -17,7 +17,7 @@
   <a href="https://nodejs.org/en/about"><img align="center" alt="Nodejs" height="70" width="124" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
   <a href="https://www.nginx.com/"><img align="center" alt="Nginx" height="70" width="70" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"></a>
   <a href="https://www.docker.com/"><img align="center" alt="Docker" height="70" width="90" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png.webp"></a>
-   <img align="center" alt="Scss" height="70" width="70" src="https://sass-lang.com/assets/img/styleguide/seal-color.png">
+  <a href="https://sass-lang.com/"><img align="center" alt="Scss" height="70" width="70" src="https://sass-lang.com/assets/img/styleguide/seal-color.png"></a>
 </div>
   
   ##
